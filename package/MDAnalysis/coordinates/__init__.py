@@ -741,6 +741,7 @@ from . import PQR
 from . import TRJ
 from . import TRR
 from . import H5MD
+from . import H5
 from . import TRZ
 from . import XTC
 from . import XYZ
